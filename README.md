@@ -1,4 +1,4 @@
-![](https://github.com/ashwilliams15/ashwilliams15/blob/main/GitHubBanner.mp4)
+<img src="/bannerPic.png" alt="banner" />
 
 ## Hi there 👋
 
