@@ -1,9 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ashwilliams15/ashwilliams15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My description
 
-Here are some ideas to get you started:
+### Technologies & Tools
+
+### My Latest GitHub Activity
+
+### How to Reach Me
+
+LinkedIn, GitHub, spotify, 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
