@@ -1,3 +1,5 @@
+<img src="/Users/ashleywilliams/Personal-Projects/GitHubReadMe/GitHubBanner.mp4" alt="Personal Banner">
+
 ## Hi there 👋
 
 My description
@@ -8,7 +10,7 @@ My description
 
 ### How to Reach Me
 
-LinkedIn, GitHub, spotify, 
+LinkedIn, GitHub, spotify,
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +20,4 @@ LinkedIn, GitHub, spotify,
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
