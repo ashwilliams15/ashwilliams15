@@ -1,4 +1,4 @@
-![](https://github.com/ashwilliams15/ashwilliams15/blob/main/bannerPic%20copy.png)
+![](https://github.com/ashwilliams15/ashwilliams15/blob/main/bannerPic2.png)
 
 ## Hi there 👋
 
