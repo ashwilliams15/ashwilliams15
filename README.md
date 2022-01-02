@@ -1,4 +1,4 @@
-<img src="/Users/ashleywilliams/Personal-Projects/GitHubReadMe/GitHubBanner.mp4" alt="Personal Banner">
+![](https://github.com/ashwilliams15/ashwilliams15/blob/main/GitHubBanner.mp4)
 
 ## Hi there 👋
 
