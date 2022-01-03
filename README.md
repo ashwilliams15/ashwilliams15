@@ -16,3 +16,17 @@ It is a career that...
 
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/nodetrans.png" alt="node logo" height="100"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/expresstrans2.png" alt="express logo" height="100"></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/javascriptLogo.jpg" alt="javascript logo" height="100"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/reactrans.png" alt="react logo" height="100"></a>
+<a href="https://react-redux.js.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/reduxlogo.jpeg" alt="redux logo" height="100"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/postgrestrans1.png" alt="postgres logo" height="100"></a>
+<a href="https://sequelize.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/sequelizeLogo.png" alt="sequelize logo" height="100"></a>
+<a href="https://mui.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/materialuiLogo.png" alt="mui logo" height="100"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/gitLogo.png" alt="git logo" height="100"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img                                     src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/htmlLogo.png" alt="html logo" height="100"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/cssLogo.png" alt="css logo" height="100"></a>
+<a href="https://socket.io/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/socket.jpg" alt="socket logo" height="100"></a>
+<a href="https://phaser.io/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/phaserLogo.png" alt="phaser logo" height="100"></a>
+
+<a href="https://mochajs.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/gitLogo.png" alt="git logo" height="100"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/gitLogo.png" alt="git logo" height="100"></a>
