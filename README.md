@@ -28,5 +28,5 @@ It is a career that...
 <a href="https://socket.io/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/socket.jpg" alt="socket logo" height="100"></a>
 <a href="https://phaser.io/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/phaserLogo.png" alt="phaser logo" height="100"></a>
 
-<a href="https://mochajs.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/gitLogo.png" alt="git logo" height="100"></a>
+<a href="https://mochajs.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/mocharealLogo.png" alt="mocha logo" height="100"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/gitLogo.png" alt="git logo" height="100"></a>
