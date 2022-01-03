@@ -10,3 +10,6 @@ It is a career that...
 1. 🌱 Not only encourages continuous learning, but requires it.
 2. 👯 Revolves around collaboration.
 3. 🤔 Challenges me intellectually.
+
+## Technologies/Tools
+<br/>
