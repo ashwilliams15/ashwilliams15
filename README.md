@@ -12,6 +12,8 @@ It is a career that...
 2. 👯 Revolves around collaboration.
 3. 🤔 Challenges me intellectually.
 
+
+
 ## Technologies/Tools
 
 <br/>
@@ -31,3 +33,11 @@ It is a career that...
 <a href="https://phaser.io/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/phaserLogo.png" alt="phaser logo" height="75"></a>
 <a href="https://mochajs.org/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/mochaRealRealLogo.svg" alt="mocha logo" height="75"></a>
 <a href="https://www.chaijs.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/chaiLogo.png" alt="chai logo" height="75"></a>
+
+## Reach Me Here
+
+<br/>
+
+<a href="https://github.com/ashwilliams15" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/gitHubLogo.png" alt="github logo" height="30"></a>
+<a href="https://www.linkedin.com/in/ashley-williams011/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/linkedInLogo.png" alt="github logo" height="30"></a>
+<a href="https://www.instagram.com/a.s.williams/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/instagramLogo.png" alt="github logo" height="30"></a>
