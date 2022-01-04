@@ -16,8 +16,6 @@ It is a career that...
 
 ## Technologies/Tools
 
-<br/>
-
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/nodetrans.png" alt="node logo" height="75"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/expresstrans2.png" alt="express logo" height="75"></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/JavascriptRealLogo.png" alt="javascript logo" height="75"></a>
@@ -35,8 +33,6 @@ It is a career that...
 <a href="https://www.chaijs.com/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/techLogos/chaiLogo.png" alt="chai logo" height="75"></a>
 
 ## Reach Me Here
-
-<br/>
 
 <a href="https://github.com/ashwilliams15" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/gitHubLogo.png" alt="github logo" height="30"></a>
 <a href="https://www.linkedin.com/in/ashley-williams011/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/linkedInLogo.png" alt="github logo" height="30"></a>
