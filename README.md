@@ -35,5 +35,5 @@ It is a career that...
 ## Reach Me Here
 
 <a href="https://github.com/ashwilliams15" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/gitHubLogo.png" alt="github logo" height="30"></a>
-<a href="https://www.linkedin.com/in/ashley-williams011/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/linkedInLogo.png" alt="github logo" height="30"></a>
-<a href="https://www.instagram.com/a.s.williams/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/instagramLogo.png" alt="github logo" height="30"></a>
+<a href="https://www.linkedin.com/in/ashley-williams011/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/linkedInLogo.png" alt="linkedin logo" height="30"></a>
+<a href="https://www.instagram.com/a.s.williams/" target="_blank"><img src="https://github.com/ashwilliams15/ashwilliams15/blob/main/socialLogos/igLogo.png" alt="instagram logo" height="30"></a>
